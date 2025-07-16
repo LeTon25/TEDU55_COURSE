@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\bin\Debug\net9.0\FactoryMethodSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\bin\Debug\net9.0\FactoryMethodSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\bin\Debug\net9.0\FactoryMethodSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\bin\Debug\net9.0\FactoryMethodSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\bin\Debug\net9.0\FactoryMethodSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\FactoryMethodSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\FactoryMethodSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\FactoryMethodSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\FactoryMethodSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\FactoryMethodSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\FactoryMethodSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\refint\FactoryMethodSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\FactoryMethodSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\FactoryMethodSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FactoryMethod\obj\Debug\net9.0\ref\FactoryMethodSample.dll
