@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\bin\Debug\net9.0\BridgeSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\bin\Debug\net9.0\BridgeSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\bin\Debug\net9.0\BridgeSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\bin\Debug\net9.0\BridgeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\bin\Debug\net9.0\BridgeSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\BridgeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\BridgeSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\BridgeSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\BridgeSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\BridgeSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\BridgeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\refint\BridgeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\BridgeSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\BridgeSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\BridgeSample\obj\Debug\net9.0\ref\BridgeSample.dll

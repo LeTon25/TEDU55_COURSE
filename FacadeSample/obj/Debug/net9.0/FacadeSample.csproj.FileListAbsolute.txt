@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\bin\Debug\net9.0\FacadeSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\bin\Debug\net9.0\FacadeSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\bin\Debug\net9.0\FacadeSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\bin\Debug\net9.0\FacadeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\bin\Debug\net9.0\FacadeSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\FacadeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\FacadeSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\FacadeSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\FacadeSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\FacadeSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\FacadeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\refint\FacadeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\FacadeSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\FacadeSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FacadeSample\obj\Debug\net9.0\ref\FacadeSample.dll

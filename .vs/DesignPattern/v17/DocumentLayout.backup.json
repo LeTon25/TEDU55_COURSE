@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E69AFA80-CF6A-4C14-9ABA-C92EDD0949E2}|AdapterSample\\AdapterSample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\adaptersample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69AFA80-CF6A-4C14-9ABA-C92EDD0949E2}|AdapterSample\\AdapterSample.csproj|solutionrelative:adaptersample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\proxysample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|solutionrelative:proxysample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E69AFA80-CF6A-4C14-9ABA-C92EDD0949E2}|AdapterSample\\AdapterSample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\adaptersample\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69AFA80-CF6A-4C14-9ABA-C92EDD0949E2}|AdapterSample\\AdapterSample.csproj|solutionrelative:adaptersample\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\proxysample\\sharedfolderproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|solutionrelative:proxysample\\sharedfolderproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E69AFA80-CF6A-4C14-9ABA-C92EDD0949E2}|AdapterSample\\AdapterSample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\adaptersample\\stockxmladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69AFA80-CF6A-4C14-9ABA-C92EDD0949E2}|AdapterSample\\AdapterSample.csproj|solutionrelative:adaptersample\\stockxmladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\proxysample\\sharedfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|solutionrelative:proxysample\\sharedfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E69AFA80-CF6A-4C14-9ABA-C92EDD0949E2}|AdapterSample\\AdapterSample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\adaptersample\\stockjsonadaptee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69AFA80-CF6A-4C14-9ABA-C92EDD0949E2}|AdapterSample\\AdapterSample.csproj|solutionrelative:adaptersample\\stockjsonadaptee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\proxysample\\isharedfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|solutionrelative:proxysample\\isharedfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|c:\\users\\toan\\source\\repos\\tedu55_course\\proxysample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874D777E-C32C-4683-953C-43A439158407}|ProxySample\\ProxySample.csproj|solutionrelative:proxysample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 71,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\AdapterSample\\Program.cs",
-              "RelativeDocumentMoniker": "AdapterSample\\Program.cs",
-              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\AdapterSample\\Program.cs",
-              "RelativeToolTip": "AdapterSample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:43:32.884Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:246:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
@@ -312,40 +303,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\AdapterSample\\Client.cs",
-              "RelativeDocumentMoniker": "AdapterSample\\Client.cs",
-              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\AdapterSample\\Client.cs",
-              "RelativeToolTip": "AdapterSample\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Title": "SharedFolderProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\SharedFolderProxy.cs",
+              "RelativeDocumentMoniker": "ProxySample\\SharedFolderProxy.cs",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\SharedFolderProxy.cs",
+              "RelativeToolTip": "ProxySample\\SharedFolderProxy.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:45:19.347Z",
+              "WhenOpened": "2025-07-17T09:10:48.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StockXMLAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\AdapterSample\\StockXMLAdapter.cs",
-              "RelativeDocumentMoniker": "AdapterSample\\StockXMLAdapter.cs",
-              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\AdapterSample\\StockXMLAdapter.cs",
-              "RelativeToolTip": "AdapterSample\\StockXMLAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Title": "SharedFolder.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\SharedFolder.cs",
+              "RelativeDocumentMoniker": "ProxySample\\SharedFolder.cs",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\SharedFolder.cs",
+              "RelativeToolTip": "ProxySample\\SharedFolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:44:56.171Z",
+              "WhenOpened": "2025-07-17T09:09:02.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StockJsonAdaptee.cs",
-              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\AdapterSample\\StockJsonAdaptee.cs",
-              "RelativeDocumentMoniker": "AdapterSample\\StockJsonAdaptee.cs",
-              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\AdapterSample\\StockJsonAdaptee.cs",
-              "RelativeToolTip": "AdapterSample\\StockJsonAdaptee.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwCcAAAAoAAAAAAAAAA==",
+              "Title": "ISharedFolder.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\ISharedFolder.cs",
+              "RelativeDocumentMoniker": "ProxySample\\ISharedFolder.cs",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\ISharedFolder.cs",
+              "RelativeToolTip": "ProxySample\\ISharedFolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:43:52.161Z",
+              "WhenOpened": "2025-07-17T09:08:32.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\Employee.cs",
+              "RelativeDocumentMoniker": "ProxySample\\Employee.cs",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\Employee.cs",
+              "RelativeToolTip": "ProxySample\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:07:39.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\Program.cs",
+              "RelativeDocumentMoniker": "ProxySample\\Program.cs",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\TEDU55_COURSE\\ProxySample\\Program.cs",
+              "RelativeToolTip": "ProxySample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:57:03.445Z",
               "EditorCaption": ""
             },
             {

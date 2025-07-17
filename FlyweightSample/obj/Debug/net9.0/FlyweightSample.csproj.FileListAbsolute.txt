@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\bin\Debug\net9.0\FlyweightSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\bin\Debug\net9.0\FlyweightSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\bin\Debug\net9.0\FlyweightSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\bin\Debug\net9.0\FlyweightSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\bin\Debug\net9.0\FlyweightSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\FlyweightSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\FlyweightSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\FlyweightSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\FlyweightSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\FlyweightSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\FlyweightSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\refint\FlyweightSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\FlyweightSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\FlyweightSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\FlyweightSample\obj\Debug\net9.0\ref\FlyweightSample.dll

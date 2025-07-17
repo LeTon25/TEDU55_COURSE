@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\bin\Debug\net9.0\ProxySample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\bin\Debug\net9.0\ProxySample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\bin\Debug\net9.0\ProxySample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\bin\Debug\net9.0\ProxySample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\bin\Debug\net9.0\ProxySample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ProxySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ProxySample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ProxySample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ProxySample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ProxySample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ProxySample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\refint\ProxySample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ProxySample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ProxySample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\ProxySample\obj\Debug\net9.0\ref\ProxySample.dll

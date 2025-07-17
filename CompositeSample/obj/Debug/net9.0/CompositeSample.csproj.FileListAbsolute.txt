@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\bin\Debug\net9.0\CompositeSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\bin\Debug\net9.0\CompositeSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\bin\Debug\net9.0\CompositeSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\bin\Debug\net9.0\CompositeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\bin\Debug\net9.0\CompositeSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\CompositeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\CompositeSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\CompositeSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\CompositeSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\CompositeSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\CompositeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\refint\CompositeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\CompositeSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\CompositeSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\CompositeSample\obj\Debug\net9.0\ref\CompositeSample.dll
