@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\bin\Debug\net9.0\AbstractFactorySample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\bin\Debug\net9.0\AbstractFactorySample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\bin\Debug\net9.0\AbstractFactorySample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\bin\Debug\net9.0\AbstractFactorySample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\bin\Debug\net9.0\AbstractFactorySample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\AbstractFactorySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\AbstractFactorySample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\AbstractFactorySample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\AbstractFactorySample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\AbstractFactorySample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\AbstractFactorySample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\refint\AbstractFactorySample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\AbstractFactorySample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\AbstractFactorySample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\AbstractFactorySample\obj\Debug\net9.0\ref\AbstractFactorySample.dll

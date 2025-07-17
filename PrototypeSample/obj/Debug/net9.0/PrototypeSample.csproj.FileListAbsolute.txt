@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\bin\Debug\net9.0\PrototypeSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\bin\Debug\net9.0\PrototypeSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\bin\Debug\net9.0\PrototypeSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\bin\Debug\net9.0\PrototypeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\bin\Debug\net9.0\PrototypeSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\PrototypeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\PrototypeSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\PrototypeSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\PrototypeSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\PrototypeSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\PrototypeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\refint\PrototypeSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\PrototypeSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\PrototypeSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\PrototypeSample\obj\Debug\net9.0\ref\PrototypeSample.dll
