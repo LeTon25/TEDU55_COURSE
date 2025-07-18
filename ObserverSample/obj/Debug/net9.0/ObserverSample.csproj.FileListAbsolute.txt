@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\bin\Debug\net9.0\ObserverSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\bin\Debug\net9.0\ObserverSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\bin\Debug\net9.0\ObserverSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\bin\Debug\net9.0\ObserverSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\bin\Debug\net9.0\ObserverSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ObserverSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ObserverSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ObserverSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ObserverSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ObserverSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ObserverSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\refint\ObserverSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ObserverSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ObserverSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\ObserverSample\obj\Debug\net9.0\ref\ObserverSample.dll

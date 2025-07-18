@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\bin\Debug\net9.0\VisitorTemplate.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\bin\Debug\net9.0\VisitorTemplate.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\bin\Debug\net9.0\VisitorTemplate.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\bin\Debug\net9.0\VisitorTemplate.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\bin\Debug\net9.0\VisitorTemplate.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\VisitorTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\VisitorTemplate.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\VisitorTemplate.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\VisitorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\VisitorTemplate.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\VisitorTemplate.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\refint\VisitorTemplate.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\VisitorTemplate.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\VisitorTemplate.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\VisitorTemplate\obj\Debug\net9.0\ref\VisitorTemplate.dll

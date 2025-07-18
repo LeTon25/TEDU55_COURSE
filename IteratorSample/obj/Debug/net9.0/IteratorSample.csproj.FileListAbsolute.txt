@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\bin\Debug\net9.0\IteratorSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\bin\Debug\net9.0\IteratorSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\bin\Debug\net9.0\IteratorSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\bin\Debug\net9.0\IteratorSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\bin\Debug\net9.0\IteratorSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\IteratorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\IteratorSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\IteratorSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\IteratorSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\IteratorSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\IteratorSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\refint\IteratorSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\IteratorSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\IteratorSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\IteratorSample\obj\Debug\net9.0\ref\IteratorSample.dll

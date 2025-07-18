@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\bin\Debug\net9.0\CoRSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\bin\Debug\net9.0\CoRSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\bin\Debug\net9.0\CoRSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\bin\Debug\net9.0\CoRSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\bin\Debug\net9.0\CoRSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\CoRSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\CoRSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\CoRSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\CoRSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\CoRSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\CoRSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\refint\CoRSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\CoRSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\CoRSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\CoRSample\obj\Debug\net9.0\ref\CoRSample.dll

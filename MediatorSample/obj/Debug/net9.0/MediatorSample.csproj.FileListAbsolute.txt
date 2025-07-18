@@ -1,0 +1,15 @@
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\bin\Debug\net9.0\MediatorSample.exe
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\bin\Debug\net9.0\MediatorSample.deps.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\bin\Debug\net9.0\MediatorSample.runtimeconfig.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\bin\Debug\net9.0\MediatorSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\bin\Debug\net9.0\MediatorSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\MediatorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\MediatorSample.AssemblyInfoInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\MediatorSample.AssemblyInfo.cs
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\MediatorSample.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\MediatorSample.sourcelink.json
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\MediatorSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\refint\MediatorSample.dll
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\MediatorSample.pdb
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\MediatorSample.genruntimeconfig.cache
+C:\Users\Toan\source\repos\TEDU55_COURSE\MediatorSample\obj\Debug\net9.0\ref\MediatorSample.dll
